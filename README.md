@@ -90,3 +90,8 @@ By removing centralized control and reducing barriers to entry, we envision a fu
 ## License
 
 This project is licensed under the MIT License - see the contract header for details.
+
+
+Contract details: 0xFe56E893fCe952D8A99e5a507C634155F39320D5
+<img width="1913" height="925" alt="image" src="https://github.com/user-attachments/assets/7155fe02-dcfd-4c1e-9e86-713003248916" />
+
